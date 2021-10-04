@@ -4,11 +4,15 @@
 <span> 💌 sonjw5128@gmail.com 📫 </span>
 -->
 🧑🏻‍💻
+
+<!--
 <a href="https://www.instagram.com/hyojhand/">
     <img 
         src="http://img.shields.io/badge/-Instagram-cc99ff?style=flat&logo=Instagram&link=https://www.instagram.com/hyojhand/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+-->
+
 <a href="https://velog.io/@hyojhand">
     <img 
         src="http://img.shields.io/badge/-Velog-00ff80?style=flat&logo=Vector Logo Zone&link=https://velog.io/@hyojhand"
