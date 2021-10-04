@@ -3,7 +3,11 @@
 <!--
 <span> 💌 sonjw5128@gmail.com 📫 </span>
 -->
-🧑🏻‍💻
+🧑🏻‍💻 <a href="https://velog.io/@hyojhand">
+    <img 
+        src="http://img.shields.io/badge/-Velog-00ff80?style=flat&logo=Vector Logo Zone&link=https://velog.io/@hyojhand"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 <a href="https://www.instagram.com/hyojhand/">
@@ -12,12 +16,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 -->
-
-<a href="https://velog.io/@hyojhand">
-    <img 
-        src="http://img.shields.io/badge/-Velog-00ff80?style=flat&logo=Vector Logo Zone&link=https://velog.io/@hyojhand"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 ![hyojhand's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojhand&show_icons=true&theme=vue)
 
