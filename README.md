@@ -1,8 +1,8 @@
 <h2> 🌱 Hi there 👋 </h2>
-<h4>🧑🏻‍💻 I want to be a Backend Developer </h4>
-<h5>🌱 I'm currently learning SpringBoot & JavaScript</h5>
 
-<!-- About me : notion -->
+<h4>🧑🏻‍💻 I want to be a Backend Developer <br/>
+🌱 I'm currently learning SpringBoot & JavaScript</h4>
+<!-- About me : notion <br/> -->
 Tech Blog : <a href="https://velog.io/@hyojhand" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Velog-00ff80?style=flat&logo=Vector Logo Zone&link=https://velog.io/@hyojhand"
@@ -21,14 +21,12 @@ Send Mail : <a href="mailto:sonjw5128@gmail.com">
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
 ![hyojhand's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojhand&show_icons=true&theme=vue)
- -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojhand&layout=compact&theme=vue&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyojhand)](https://solved.ac/hyojhand)
+<br/> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyojhand)](https://solved.ac/hyojhand)
 
 
 <!--
