@@ -1,7 +1,14 @@
-<h2> 🌱 Hi there 👋 </h2>
+<h2> 🙇🏻‍♂️ Hi there 👋 </h2>
 
-<h4>🧑🏻‍💻 I want to be a Backend Developer <br/>
+<a href="https://solved.ac/profile/hyojhand">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyojhand">
+</a>
+
+<h4>
+🧑🏻‍💻 &nbspI want to be a Backend Developer <br/>
+🔭 I’m studying with SSAFY 7th <br/>
 🌱 I'm currently learning SpringBoot & JavaScript</h4>
+
 <!-- About me : notion <br/> -->
 Tech Blog : <a href="https://velog.io/@hyojhand" target="_blank">
     <img 
@@ -9,33 +16,11 @@ Tech Blog : <a href="https://velog.io/@hyojhand" target="_blank">
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br/>
-Send Mail : <a href="mailto:sonjw5128@gmail.com">
+Contact 　: <a href="mailto:sonjw5128@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sonjw5128@gmail.com"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <!--
-<a href="https://www.instagram.com/hyojhand/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-cc99ff?style=flat&logo=Instagram&link=https://www.instagram.com/hyojhand/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-![hyojhand's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojhand&show_icons=true&theme=vue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojhand&layout=compact&theme=vue&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <br/> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyojhand)](https://solved.ac/hyojhand)
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
