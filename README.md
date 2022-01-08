@@ -1,12 +1,11 @@
-<h2> 🙇🏻‍♂️ Hi there 👋 </h2>
+<h2> 🧑🏻‍💻 Hi there 👋 </h2>
 
 <a href="https://solved.ac/profile/hyojhand">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyojhand">
 </a>
 
 <h4>
-🧑🏻‍💻 &nbspI want to be a Backend Developer <br/>
-🔭 I’m studying with SSAFY 7th <br/>
+🔭 I want to be a Backend Developer <br/>
 🌱 I'm currently learning SpringBoot & JavaScript</h4>
 
 <!-- About me : notion <br/> -->
