@@ -9,6 +9,12 @@
 🌱 I'm currently learning SpringBoot & JavaScript</h4>
 
 <!-- About me : notion <br/> -->
+SSAFycial : <a href="https://www.instagram.com/hyo_fycial/">
+<img
+src="http://img.shields.io/badge/-Instagram-cc99ff?style=flat&logo=Instagram&link=https://www.instagram.com/hyo_fycial/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<br/>
 Tech Blog : <a href="https://velog.io/@hyojhand" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Velog-00ff80?style=flat&logo=Vector Logo Zone&link=https://velog.io/@hyojhand"
